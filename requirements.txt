@@ -1,0 +1,10 @@
+streamlit
+python-dotenv
+GitPython
+sqlalchemy
+pymysql
+google-generativeai
+langchain-google-genai
+langchain-huggingface
+langchain-core
+langchain
